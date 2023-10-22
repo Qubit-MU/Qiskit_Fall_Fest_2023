@@ -61,5 +61,9 @@ Qiskit Fall Fest Challenges notebooks
 * Jayasri
 * [Abhi Muvva](https://github.com/Abhi-Muvva)
 * [Sriya Bada](https://github.com/SriyaKaling43)
-* [Sreeraj](https://github.com/MahindraRajan) 
+* [Sreeraj](https://github.com/MahindraRajan)
+* Rishab Ramanathan
+* Harshavardhan Reddy
 
+## Attendees for the Workshop
+- Around 200 students from 1st year to PhD level appeared during the workshop.
